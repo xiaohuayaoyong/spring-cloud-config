@@ -1,5 +1,5 @@
 config:
   info: 
-    name: zhangsan33
-    age: 33
+    name: zhangsan
+    age: 3
     gender: man
