@@ -1,2 +1,5 @@
-server:
-  port: 8001
+config:
+  info: 
+    name: уехЩ
+    age: 12
+    gender: man
